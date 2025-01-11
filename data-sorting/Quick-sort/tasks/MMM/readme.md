@@ -13,7 +13,7 @@ a a1 и a2 -  - стоимости монеты в первые два дня н
 ## **Выходные данные:**
 В качестве ответа выведите XOR k найденных вами чисел.
 
-<img width="463" alt="гт3" src="https://github.com/user-attachments/assets/8c93115a-4d86-47c0-b98b-42ae745afa6d" />
+<img width="490" alt="гт3" src="https://github.com/user-attachments/assets/8c93115a-4d86-47c0-b98b-42ae745afa6d" />
 
 
 
