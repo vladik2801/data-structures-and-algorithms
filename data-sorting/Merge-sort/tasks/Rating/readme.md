@@ -12,4 +12,4 @@
 ### **Выходные данные:**
 Выведите число найденных пар
 
-<img width="463" alt="гт2" src="https://github.com/user-attachments/assets/a95c80b6-1539-459b-b62e-92c4b8a54af5" />
+<img width="490" alt="гт2" src="https://github.com/user-attachments/assets/a95c80b6-1539-459b-b62e-92c4b8a54af5" />
